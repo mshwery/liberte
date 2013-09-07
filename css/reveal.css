@@ -265,8 +265,9 @@ body {
 }
 
 .reveal p {
+	font-size: 1.125em;
 	margin-bottom: 10px;
-	line-height: 1.2em;
+	line-height: 1.4em;
 }
 
 .reveal q,
